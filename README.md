@@ -8,6 +8,6 @@ This is a cool example of what you can do with the canvas element for HTML5. I u
 Visit http://yuccaberry.no-ip.org/projects/sandman/ to see this in action
 
 You can set the number of grains in the URL query string. 
-eg: http://yuccaberry.no-ip.org/projects/sandman/?num=500 will set 500 grains of sand.
+eg: http://yuccaberry.com/projects/sandman/?num=500 will set 500 grains of sand.
 
 The project's KineticJS JavaScript Library v3.6.2 is outdated. Visit [kineticjs.com](http://kineticjs.com/) to get the updated library.
